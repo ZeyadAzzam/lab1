@@ -3,7 +3,7 @@ let name = prompt("What is your Name");
 //! error handling the empty name:
 
 if (name !== null) {
-  alert("Welcome " + name + "!");
+  alert("Welcome " + name + "🤍!");
 }
 
 // function to check the age of the user 😃
