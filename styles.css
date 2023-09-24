@@ -1,0 +1,50 @@
+body {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.page-title {
+  text-align: center;
+  color: white;
+  background-color: #333333;
+}
+
+.container {
+  margin: auto;  /* ! Center the div */
+  width: 20%;
+  height: 12rem;
+  border: 1px solid #757575;
+  padding: 1rem;
+}
+label {
+  margin: 0 0 2rem 1rem;
+  font-weight: bold;
+}
+input {
+  margin: 0 1rem 1rem 1rem;
+  outline: none;
+  border: 2px solid #f0f0ef;
+  width: 85%;
+  height: 1.6rem;
+}
+
+.login-btn {
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  background-color: #333333;
+  cursor: pointer;
+  color: white;
+  outline: none;
+  border: none;
+  width: 4rem;
+  height: 2rem;
+}
+
+input:hover {
+  background-color: #e8f0fe;
+}
+
+.login-btn:hover {
+  background-color: blue;
+}
