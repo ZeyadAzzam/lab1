@@ -1,4 +1,4 @@
-/* the page editing:) */
+/* the page editing */
 body {
   display: block;
   margin: 0;
@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-  margin: auto;  /* ! Center the div */
+  margin: auto; /* ! Center the div */
   width: 20%;
   height: 12rem;
   border: 1px solid #757575;
@@ -49,7 +49,6 @@ input:hover {
   border: none;
   width: 4rem;
   height: 2rem;
-  
 }
 
 /* Login hover when user hover it ! */
