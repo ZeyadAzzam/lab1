@@ -29,3 +29,4 @@ console.log(
 console.log(
   "Pasting anything in here could give attackers access to your Ziadbook account"
 );
+console.log("Cya Soon");
