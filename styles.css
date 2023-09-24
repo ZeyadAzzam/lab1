@@ -1,9 +1,11 @@
+/* the page editing:) */
 body {
   display: block;
   margin: 0;
   padding: 0;
 }
 
+/* H2 edit */
 .page-title {
   text-align: center;
   color: white;
@@ -21,6 +23,8 @@ label {
   margin: 0 0 2rem 1rem;
   font-weight: bold;
 }
+
+/* input editing */
 input {
   margin: 0 1rem 1rem 1rem;
   outline: none;
@@ -29,6 +33,12 @@ input {
   height: 1.6rem;
 }
 
+/* hover for the inputs when user hover it! */
+input:hover {
+  background-color: #e8f0fe;
+}
+
+/* login button editing */
 .login-btn {
   margin-bottom: 1rem;
   margin-left: 1rem;
@@ -42,10 +52,7 @@ input {
   
 }
 
-input:hover {
-  background-color: #e8f0fe;
-}
-
+/* Login hover when user hover it ! */
 .login-btn:hover {
   background-color: blue;
 }
